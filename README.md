@@ -1,0 +1,1 @@
+This project is an experiment to play with integrating GSAP animations and animations exported from After Effects with BodyMovin
